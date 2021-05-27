@@ -5,9 +5,11 @@
 // @description  try to take over the world!
 // @author       Diego Araya
 // @match        file:///C:/Users/super/Documents/clases/cripto/tarea3/index.html
-// @require      https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.0.0/crypto-js.min.js#sha512-nOQuvD9nKirvxDdvQ9OMqe2dgapbPB7vYAMrzJihw5m+aNcf0dX53m6YxM4LgA9u8e9eg9QX+/+mPu8kCNpV2A==
+// @require      https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.0.0/crypto-js.min.js
 // @icon         https://www.google.com/s2/favicons?domain=google.com
 // @grant        none
+// @downloadURL  https://github.com/ElxYoPo/Tarea3Cripto/blob/main/codjs.js
+// @updateURL    https://github.com/ElxYoPo/Tarea3Cripto/blob/main/codjs.js
 // ==/UserScript==
 
 CryptoJS.mode.CFBb = (function () {
